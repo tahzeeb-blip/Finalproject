@@ -1,5 +1,5 @@
 * Project Name:
-Sudoko Game in c++
+Sudoku Game in C++
 
 *Overview:
 This project implements a Sudoku Solver and Generator using C++. It utilizes data structures such as linked lists, stacks, and queues to handle various tasks, such as managing empty cells and performing backtracking to solve the puzzle. The program also features functions to generate Sudoku puzzles with a specified difficulty level and sort the rows of the puzzle.
@@ -10,7 +10,7 @@ Sudoku Solver: Solves the given Sudoku puzzle using a backtracking algorithm.
 Linked List: Tracks custom node information for demonstration purposes.
 Queue: Manages empty cells in a First-In-First-Out (FIFO) order.
 Stack: Tracks backtracking states for solving the puzzle.
-Row Sorting: Sorts the rows of the Sudoku puzzle in ascending order.
+Row Sorting: Sort the rows of the Sudoku puzzle in ascending order.
 Simple and interactive console interface.
 
 *Usage:
